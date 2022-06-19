@@ -1,4 +1,5 @@
 # *Beverlay - A Hypixel bedwars overlay.*
 
 ## **TODO**:
-### * add support for multiple clients\n * add support for linux/mac
+### 1. add support for multiple clients
+    2. add support for linux/mac
