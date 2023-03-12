@@ -8,4 +8,4 @@
 * Support for clients such as, feather client, blc and vanilla.
 
 ## Regarding the current version
-#### This version is heavily under developed because I had forgotten about this project. If you prefer this version, it will still be up for downloading under the '1.0' folder.
+#### This version is heavily under developed because I had forgotten about this project. If you prefer this version, or more specifically, the terminal aspect of it, it will still be up for downloading under the '1.0' folder.
