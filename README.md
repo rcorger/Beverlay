@@ -1,12 +1,7 @@
 # *Beverlay - A Hypixel bedwars overlay.*
 
-## **TODO** (OLD):
-1. add support for multiple clients
-2. add support for linux/mac
-
-
 ## NEXT UPDATE:
-#### I am planning on releasing 2.0 version of Beverlay, it will no longer be in the terminal but it will be a gui.
+#### I am planning on releasing 2.0 version of Beverlay, it will no longer be in the terminal but it will be a gui application.
 ### Coming features:
 * Getting the bedwars stats of a single player by passing it as an argument
 * Support for linux and mac os.
