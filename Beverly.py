@@ -49,7 +49,7 @@ user = os.getlogin() # gets environment username
 latest_logs = None
 
 if CONFIG['mc_type'] == "lunar" or CONFIG['mc_type'] == 'lc':
-    latest_logs = rf'C:\Users\{user}\.lunarclient\offline\1.8\logs\latest.log'
+    latest_logs = rf'C:\Users\{user}\.lunarclient\offline\multiver\logs\latest.log' #  fix 0.11
 else:
     raise NotImplementedError('{} support has not yet been implemented.'.format(CONFIG["mc_type"]))
 
