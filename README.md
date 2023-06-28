@@ -7,5 +7,7 @@
 * Support for linux and mac os.
 * Support for clients such as, feather client, blc and vanilla.
 
+### Edit: I lied.
+
 ## Regarding the current version
-#### This version is heavily under developed because I had forgotten about this project. If you prefer this version, or more specifically, the terminal aspect of it, it will still be up for downloading under the '1.0' folder.
+#### It no longer works as intended and I have no plans of fixing it.
